@@ -147,6 +147,7 @@ print_explanation("Step 5: The Study Session (Training)",
 ask_to_proceed("Start Training Loop")
 args = SFTConfig(
     output_dir="gemma3-270m-interactive-lora",
+    use_cpu=(device == "cpu"),
     per_device_train_batch_size=4,
     gradient_accumulation_steps=2,
     learning_rate=2e-4,

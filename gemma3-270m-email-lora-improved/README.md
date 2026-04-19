@@ -4,8 +4,8 @@ library_name: transformers
 model_name: gemma3-270m-email-lora-improved
 tags:
 - generated_from_trainer
-- sft
 - trl
+- sft
 licence: license
 ---
 
@@ -30,15 +30,16 @@ print(output["generated_text"])
  
 
 
+
 This model was trained with SFT.
 
 ### Framework versions
 
-- TRL: 0.28.0
-- Transformers: 5.2.0
-- Pytorch: 2.10.0
-- Datasets: 4.5.0
-- Tokenizers: 0.22.1
+- TRL: 1.2.0
+- Transformers: 5.5.4
+- Pytorch: 2.11.0
+- Datasets: 4.8.4
+- Tokenizers: 0.22.2
 
 ## Citations
 
@@ -49,7 +50,7 @@ Cite TRL as:
 ```bibtex
 @software{vonwerra2020trl,
   title   = {{TRL: Transformers Reinforcement Learning}},
-  author  = {von Werra, Leandro and Belkada, Younes and Tunstall, Lewis and Beeching, Edward and Thrush, Tristan and Lambert, Nathan and Huang, Shengyi and Rasul, Kashif and Gallouédec, Quentin},
+  author  = {von Werra, Leandro and Belkada, Younes and Tunstall, Lewis and Beeching, Edward and Thrush, Tristan and Lambert, Nathan and Huang, Shengyi and Rasul, Kashif and GallouÃ©dec, Quentin},
   license = {Apache-2.0},
   url     = {https://github.com/huggingface/trl},
   year    = {2020}

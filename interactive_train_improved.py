@@ -98,6 +98,7 @@ print_explanation("Step 5: The 'Masterpiece' Session (Improved Training)",
 ask_to_proceed("Start Improved Training Loop")
 args = SFTConfig(
     output_dir="gemma3-270m-email-lora-improved",
+    use_cpu=(device == "cpu"),
     per_device_train_batch_size=1, # Reduced from 4
     gradient_accumulation_steps=8, # Increased from 2 to maintain total batch=8
     dataloader_pin_memory=False,   # CRITICAL: Fix for MPS segmentation fault

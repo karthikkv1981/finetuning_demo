@@ -45,6 +45,7 @@ train_ds, eval_ds = ds["train"], ds["test"]
 # 5) Improved Training Config
 args = SFTConfig(
     output_dir="gemma3-270m-email-lora-improved",
+    use_cpu=(device == "cpu"),
     per_device_train_batch_size=1, # Reduced from 4
     gradient_accumulation_steps=8, # Increased from 2
     dataloader_pin_memory=False,   # Fix for MPS crash

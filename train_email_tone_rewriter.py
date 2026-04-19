@@ -55,6 +55,7 @@ from trl import SFTTrainer, SFTConfig
 # 5) Trainer config
 args = SFTConfig(
     output_dir="gemma3-270m-email-lora",
+    use_cpu=(device == "cpu"),
     per_device_train_batch_size=4,
     gradient_accumulation_steps=2,
     learning_rate=2e-4,

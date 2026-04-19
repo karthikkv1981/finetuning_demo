@@ -1,44 +1,50 @@
-{"instruction": "Rewrite professionally: Send me the report today. You missed it yesterday.", "output": "Could you please share the report today? I noticed it was delayed yesterday."}
-{"instruction": "Rewrite professionally: I hate this design. Do it again.", "output": "I believe we can improve this design. Could we explore some alternatives?"}
-{"instruction": "Rewrite professionally: Fix this bug immediately.", "output": "Could you please prioritize fixing this bug as soon as possible?"}
-{"instruction": "Rewrite professionally: I'm not doing this task. It's stupid.", "output": "I have some concerns about this task. Can we discuss its purpose?"}
-{"instruction": "Rewrite professionally: Give me the slides by noon.", "output": "Please send over the slides by noon if possible."}
-{"instruction": "Rewrite professionally: Your code is garbage and broke the build.", "output": "It seems the recent code commit broke the build. Can we review it together?"}
-{"instruction": "Rewrite professionally: Stop emailing me about this.", "output": "I would appreciate it if we could pause the email updates on this topic."}
-{"instruction": "Rewrite professionally: The client is super annoying.", "output": "The client has been quite demanding recently."}
-{"instruction": "Rewrite professionally: Why did you do it this way? It makes no sense.", "output": "Could you help me understand the reasoning behind this approach?"}
-{"instruction": "Rewrite professionally: Tell John he is wrong about the budget.", "output": "Please let John know that there might be an oversight regarding the budget figures."}
-{"instruction": "Rewrite professionally: This meeting was a waste of time.", "output": "I think we could structure our meetings more efficiently in the future."}
-{"instruction": "Rewrite professionally: You completely ignored my email.", "output": "Did you get a chance to review my previous email?"}
-{"instruction": "Rewrite professionally: I don't care what they say, we are doing it my way.", "output": "Let's consider their feedback, but I still recommend we proceed with the current plan."}
-{"instruction": "Rewrite professionally: You're late again.", "output": "I noticed you've been arriving late recently. Is everything okay?"}
-{"instruction": "Rewrite professionally: This is the worst idea I've ever heard.", "output": "I have some reservations about this idea. Let's explore other options."}
-{"instruction": "Rewrite professionally: Fix the spelling mistake right now.", "output": "Could you please correct the spelling typo when you have a moment?"}
-{"instruction": "Rewrite professionally: I am too busy for this nonsense.", "output": "My schedule is currently full, so I won't be able to take this on."}
-{"instruction": "Rewrite professionally: You clearly didn't read my instructions.", "output": "It seems there might have been a misunderstanding regarding my instructions."}
-{"instruction": "Rewrite professionally: Do not interrupt me when I am speaking.", "output": "I would appreciate it if you could let me finish my thought."}
-{"instruction": "Rewrite professionally: You messed up the presentation.", "output": "There are a few areas in the presentation that we need to improve."}
-{"instruction": "Rewrite professionally: This code is a disaster.", "output": "This code could benefit from some refactoring."}
-{"instruction": "Rewrite professionally: I expect this done by tomorrow, no excuses.", "output": "Please aim to have this completed by tomorrow."}
-{"instruction": "Rewrite professionally: Your performance has been terrible.", "output": "We need to discuss some areas for improvement in your recent performance."}
-{"instruction": "Rewrite professionally: I'm done dealing with this client.", "output": "I feel it might be best if someone else handles this client moving forward."}
-{"instruction": "Rewrite professionally: Why is this taking so long?", "output": "Could you provide an update on the timeline for this?"}
-{"instruction": "Rewrite professionally: You need to learn how to communicate.", "output": "I think active communication would greatly benefit our teamwork."}
-{"instruction": "Rewrite professionally: Don't ask me for help again.", "output": "I'm currently stretched thin and may not be available for further assistance."}
-{"instruction": "Rewrite professionally: I refuse to work with him.", "output": "I find it challenging to collaborate with him and would prefer to work independently."}
-{"instruction": "Rewrite professionally: Your report is full of lies.", "output": "I noticed some inaccuracies in the report that we need to address."}
-{"instruction": "Rewrite professionally: This project is a complete joke.", "output": "I have serious concerns about the viability of this project."}
-{"instruction": "Rewrite professionally: You need to stop being so lazy.", "output": "I would appreciate it if we could see more consistent effort on these tasks."}
-{"instruction": "Rewrite professionally: I don't want to hear your excuses.", "output": "Let's focus on finding a solution rather than focusing on the delays."}
-{"instruction": "Rewrite professionally: I told you so.", "output": "This aligns with the concerns I raised earlier."}
-{"instruction": "Rewrite professionally: You're not paid to think.", "output": "Please focus on executing the established process for now."}
-{"instruction": "Rewrite professionally: This is not my problem.", "output": "This matter falls outside my current responsibilities."}
-{"instruction": "Rewrite professionally: You are wrong.", "output": "My understanding of the situation is slightly different."}
-{"instruction": "Rewrite professionally: I'm muting this chat.", "output": "I will be adjusting my notifications for this chat to minimize distractions."}
-{"instruction": "Rewrite professionally: Do whatever you want, I don't care.", "output": "I defer to your judgment on this matter."}
-{"instruction": "Rewrite professionally: You clearly have no idea what you're doing.", "output": "It seems you might need some additional support with this task."}
-{"instruction": "Rewrite professionally: This is a hard no.", "output": "Unfortunately, I cannot approve this request."}
-{"instruction": "Rewrite professionally: I'm logging off early because this is useless.", "output": "I'm concluding my day now as I've reached a roadblock here."}
-{"instruction": "Rewrite professionally: Learn how to use Git properly.", "output": "Could we review some best practices for version control?"}
-{"instruction": "Rewrite professionally: This is above your pay grade.", "output": "This decision requires input from management."}
-{"instruction": "Rewrite professionally: I already answered this. Read the thread.", "output": "As mentioned earlier in the thread..."}
+{"instruction": "Rewrite professionally: Why is this report still not done?", "output": "Could you please share an update on the report status when you have a moment?"}
+{"instruction": "Rewrite professionally: This data is wrong. Fix it.", "output": "I noticed some inconsistencies in the data\u2014could you please review and update it?"}
+{"instruction": "Rewrite professionally: You missed the deadline again.", "output": "I see the deadline was missed\u2014let\u2019s discuss any blockers and how we can stay on track moving forward."}
+{"instruction": "Rewrite professionally: This presentation is terrible.", "output": "Thank you for your effort on the presentation\u2014could we refine a few sections to improve clarity and impact?"}
+{"instruction": "Rewrite professionally: Stop making these mistakes.", "output": "I\u2019ve noticed a few recurring issues\u2014let\u2019s review them together to ensure smoother outcomes going forward."}
+{"instruction": "Rewrite professionally: Why didn\u2019t you respond to my email?", "output": "I wanted to follow up on my previous email\u2014could you please provide an update when possible?"}
+{"instruction": "Rewrite professionally: This is not my job.", "output": "I believe this task may fall under a different role\u2014happy to collaborate on finding the right owner."}
+{"instruction": "Rewrite professionally: Your code is messy.", "output": "Could we refactor parts of the code to improve readability and maintainability?"}
+{"instruction": "Rewrite professionally: You don\u2019t understand the requirements.", "output": "Let\u2019s revisit the requirements together to ensure we\u2019re aligned."}
+{"instruction": "Rewrite professionally: This meeting is a waste of time.", "output": "Could we reassess the meeting agenda to ensure it\u2019s productive for everyone?"}
+{"instruction": "Rewrite professionally: Fix this ASAP.", "output": "Could you please prioritize this task and address it at your earliest convenience?"}
+{"instruction": "Rewrite professionally: You always do this wrong.", "output": "I\u2019ve noticed a pattern\u2014let\u2019s work together to find a consistent approach moving forward."}
+{"instruction": "Rewrite professionally: I already told you this.", "output": "Just to reiterate, here are the details\u2014please let me know if anything needs clarification."}
+{"instruction": "Rewrite professionally: This makes no sense.", "output": "Could you please provide more context to help clarify this point?"}
+{"instruction": "Rewrite professionally: Don\u2019t send me incomplete work.", "output": "Could you please ensure the work is complete before sharing it for review?"}
+{"instruction": "Rewrite professionally: You\u2019re slowing the team down.", "output": "Let\u2019s identify any challenges you\u2019re facing so we can help maintain team momentum."}
+{"instruction": "Rewrite professionally: This isn\u2019t good enough.", "output": "Could we enhance this further to meet the expected standards?"}
+{"instruction": "Rewrite professionally: Why would you do it this way?", "output": "Could you walk me through your approach so we can explore potential improvements?"}
+{"instruction": "Rewrite professionally: This needs a complete redo.", "output": "I recommend revisiting this from the beginning to better align with the requirements."}
+{"instruction": "Rewrite professionally: I\u2019m not happy with this.", "output": "I think there\u2019s an opportunity to improve this\u2014happy to discuss suggestions."}
+{"instruction": "Rewrite professionally: You forgot an important detail.", "output": "It seems a key detail may have been overlooked\u2014could you please review?"}
+{"instruction": "Rewrite professionally: Stop bothering me with small issues.", "output": "Could we consolidate minor issues into a single update for efficiency?"}
+{"instruction": "Rewrite professionally: This is confusing.", "output": "Could you please clarify this section to make it easier to understand?"}
+{"instruction": "Rewrite professionally: You didn\u2019t follow instructions.", "output": "It seems there may have been a misalignment with the instructions\u2014let\u2019s review them together."}
+{"instruction": "Rewrite professionally: This is your fault.", "output": "Let\u2019s work together to identify what went wrong and how we can resolve it."}
+{"instruction": "Rewrite professionally: Don\u2019t make the same mistake again.", "output": "Let\u2019s ensure we capture this learning to avoid similar issues in the future."}
+{"instruction": "Rewrite professionally: Why is this taking so long?", "output": "Could you share an estimated timeline for completion?"}
+{"instruction": "Rewrite professionally: This isn\u2019t what I asked for.", "output": "I think there may be a mismatch with the requirements\u2014could we align on expectations?"}
+{"instruction": "Rewrite professionally: You need to pay more attention.", "output": "It would be helpful to focus on the details to ensure accuracy."}
+{"instruction": "Rewrite professionally: This looks unprofessional.", "output": "Could we refine the formatting and presentation to make it more polished?"}
+{"instruction": "Rewrite professionally: You\u2019re not prepared.", "output": "Let\u2019s ensure we\u2019re fully prepared for future discussions by reviewing materials in advance."}
+{"instruction": "Rewrite professionally: I don\u2019t care about this task.", "output": "I\u2019d like to better understand the importance of this task and how I can contribute effectively."}
+{"instruction": "Rewrite professionally: Fix your attitude.", "output": "Let\u2019s maintain a positive and collaborative approach in our interactions."}
+{"instruction": "Rewrite professionally: This is going nowhere.", "output": "Let\u2019s reassess our approach to ensure we\u2019re making meaningful progress."}
+{"instruction": "Rewrite professionally: You\u2019re wrong.", "output": "I see it differently\u2014could we discuss our perspectives to find the best solution?"}
+{"instruction": "Rewrite professionally: This email is unclear.", "output": "Could you please provide more detail to make your message clearer?"}
+{"instruction": "Rewrite professionally: Why wasn\u2019t I informed?", "output": "I\u2019d appreciate being kept in the loop on updates moving forward."}
+{"instruction": "Rewrite professionally: This is last-minute again.", "output": "Could we plan ahead to avoid last-minute changes in the future?"}
+{"instruction": "Rewrite professionally: You didn\u2019t do what I said.", "output": "It seems there may have been a misunderstanding\u2014could we review the expectations?"}
+{"instruction": "Rewrite professionally: This is too basic.", "output": "Could we add more depth or detail to strengthen this work?"}
+{"instruction": "Rewrite professionally: I\u2019m tired of fixing your work.", "output": "Let\u2019s collaborate on improving quality to reduce rework."}
+{"instruction": "Rewrite professionally: Don\u2019t ignore my messages.", "output": "I\u2019d appreciate timely responses to ensure smooth communication."}
+{"instruction": "Rewrite professionally: You messed this up.", "output": "There seem to be some issues\u2014let\u2019s review and resolve them together."}
+{"instruction": "Rewrite professionally: This isn\u2019t useful.", "output": "Could we adjust this to better meet the intended purpose?"}
+{"instruction": "Rewrite professionally: You\u2019re overcomplicating things.", "output": "Let\u2019s simplify the approach to make it more efficient."}
+{"instruction": "Rewrite professionally: This doesn\u2019t meet expectations.", "output": "Could we revise this to better align with expectations?"}
+{"instruction": "Rewrite professionally: You\u2019re not contributing enough.", "output": "Let\u2019s discuss how you can further contribute to the team\u2019s goals."}
+{"instruction": "Rewrite professionally: This is poorly written.", "output": "Could we refine the writing for clarity and professionalism?"}
+{"instruction": "Rewrite professionally: Why is this even included?", "output": "Could you explain the relevance of this section?"}
+{"instruction": "Rewrite professionally: This needs to be better.", "output": "There\u2019s room for improvement\u2014happy to provide feedback to enhance it."}
